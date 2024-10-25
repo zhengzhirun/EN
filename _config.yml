@@ -12,9 +12,9 @@ title                    : "Zhirun Zheng (郑智润)"
 title_separator          : "-"
 name                     : &name "郑智润"
 description              : &description "personal description"
-url                      : https://zhengzhirun.github.io/ZhirunZheng1995/
+url                      : https://zhengzhirun.github.io/ZhirunZheng1995
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhengzhirun.github.io/ZhirunZheng1995/"
+repository               : "zhengzhirun.github.io/ZhirunZheng1995"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
