@@ -11,6 +11,9 @@ I am currently a Postdoctoral Fellow in the Department of Artificial Intelligenc
 
 His research interests are in the areas of security and privacy in Crowdsensing systems, artificial intelligence, and mobile networks. He has serves as TPC members of many conferences, including GLOBECOM and WCSP.
 
+NEWS
+======
+
 Education
 ======
 - **2019.09 ~ 2024.06**: Ph.D, School of Mathematics and Computational Science, [Xiangtan University](https://www.xtu.edu.cn/), China.
@@ -24,13 +27,4 @@ Work Experiences
 
 Honors and Awards
 ======
-
-
-NEWS
-======
-  Rgister a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- 奖学金
