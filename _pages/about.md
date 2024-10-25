@@ -13,6 +13,7 @@ His research interests are in the areas of security and privacy in Crowdsensing 
 
 NEWS
 ======
+- Oct. 2024 Our Paper, *"Defending Data"*, was accpepted by *IEEE TMC*.  
 
 EDUCATION
 ======
