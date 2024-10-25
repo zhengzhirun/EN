@@ -11,7 +11,7 @@ I am currently a Postdoctoral Fellow in the Department of Artificial Intelligenc
 
 His research interests are in the areas of security and privacy in Crowdsensing systems, artificial intelligence, and mobile networks. He has serves as TPC members of many conferences, including GLOBECOM and WCSP.
 
-EDUCATION
+Education
 ======
 - **2019.09~2024.06**, Ph.D, School of Mathematics and Computational Science, [Xiangtan University](https://www.xtu.edu.cn/), China.
 - **2022.12~2023.12**, Visiting Ph.D Students, Department of Electrical and Computer Engineering, [University of Waterloo](https://uwaterloo.ca/), Canada.
