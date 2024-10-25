@@ -14,8 +14,9 @@ His research interests are in the areas of security and privacy in Crowdsensing 
 EDUCATION
 ======
 - **2017.09~2024.06**, Ph.D, School of Mathematics and Computational Science, [Xiangtan University](https://www.xtu.edu.cn/), China.
- 
-- **2022.12~2023.12**, Visiting Ph.D Students, 
+- **2022.12~2023.12**, Visiting Ph.D Students, Department of Electrical and Computer Engineering, [University of Waterloo](https://uwaterloo.ca/), Canada.
+- **2013.09~2017.06**
+
   
   Rgister a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
