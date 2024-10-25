@@ -25,6 +25,6 @@ WORK EXPERIENCES
 ======
 - **2024.10 ~ present**: Postdoctoral Fellow, Department of Artificial Intelligence, [Ajou University](https://www.ajou.ac.kr/en/index.do), South Korea.
 
-HONORS AND AWARDS 
+HONORS \& AWARDS 
 ======
 - 奖学金
