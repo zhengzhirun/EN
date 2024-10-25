@@ -24,9 +24,9 @@ author:
   avatar           : "Zhirun.png"
   name             : "Zhirun Zheng"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Fellow, Ajou University"
-  location         : "South Korea"
-  employer         : "Ajou University"
+  bio              : "Postdoc, Ajou University, South Korea"
+  location         : #"South Korea"
+  employer         : #"Ajou University"
   uri              : # URL
   email            : #"none@example.org" 
 
