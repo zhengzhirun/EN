@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Fellow, Ajou University"
   location         : "South Korea"
-  employer         : "Red Brick University"
+  employer         : "Ajou University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
