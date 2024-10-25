@@ -20,7 +20,7 @@ Education
 
 Work Experiences
 ======
--**2024.10-present**: Postdoctoral Fellow, Department of Artificial Intelligence, [Ajou University](https://www.ajou.ac.kr/en/index.do), South Korea.
+- **2024.10-present**: Postdoctoral Fellow, Department of Artificial Intelligence, [Ajou University](https://www.ajou.ac.kr/en/index.do), South Korea.
 
 
 NEWS
