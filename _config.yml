@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhirun Zheng (郑智润)"
+title                    : "Zhirun Zheng"
 title_separator          : "-"
 name                     : &name "郑智润"
 description              : &description "personal description"
