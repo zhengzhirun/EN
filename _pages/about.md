@@ -13,7 +13,7 @@ His research interests are in the areas of security and privacy in Crowdsensing 
 
 EDUCATION
 ======
- ** <font size=2>2017.09~2024.06</font>**, Ph.D, School of Mathematics and Computational Science, [Xiangtan University](https://www.xtu.edu.cn/), China.
+ **2017.09~2024.06**, Ph.D, School of Mathematics and Computational Science, [Xiangtan University](https://www.xtu.edu.cn/), China.
 
   **2022.12~2023.12**, Visiting Students, 
   
