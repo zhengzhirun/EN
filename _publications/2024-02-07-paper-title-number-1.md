@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'In this paper, we propose.'
 date: 2024-02-07
 venue: 'IEEE Transactions on Dependable and Secure Computing'
-codesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Zhirun Zheng, Zhetao.'
 ---
