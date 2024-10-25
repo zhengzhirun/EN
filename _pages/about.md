@@ -13,8 +13,8 @@ His research interests are in the areas of security and privacy in Crowdsensing 
 
 Education
 ======
-- **2019.09 — 2024.06**: Ph.D, School of Mathematics and Computational Science, [Xiangtan University](https://www.xtu.edu.cn/), China.
-- **2022.12-2023.12**: Visiting Ph.D Students, Department of Electrical and Computer Engineering, [University of Waterloo](https://uwaterloo.ca/), Canada.
+- **2019.09 ~ 2024.06**: Ph.D, School of Mathematics and Computational Science, [Xiangtan University](https://www.xtu.edu.cn/), China.
+- **2022.12 ~ 2023.12**: Visiting Ph.D Students, Department of Electrical and Computer Engineering, [University of Waterloo](https://uwaterloo.ca/), Canada.
 - **2017.09-2019.06**: M.S, School of Mathematics and Computational Science, [Xiangtan University](https://www.xtu.edu.cn/), China.
 - **2013.09-2017.06**: B.S, School of Mathematics and Statistics, [Henan University of Science and Technology](https://www.haust.edu.cn/), China.
 
