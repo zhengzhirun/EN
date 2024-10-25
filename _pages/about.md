@@ -18,7 +18,7 @@ Education
 - **2017.09~2019.06**, M.S, School of Mathematics and Computational Science, [Xiangtan University](https://www.xtu.edu.cn/), China.
 - **2013.09~2017.06**, B.S, School of Mathematics and Statistics, [Henan University of Science and Technology](https://www.haust.edu.cn/), China.
 
-Nesearch Experience
+Research Experiences
 ======
   
 
