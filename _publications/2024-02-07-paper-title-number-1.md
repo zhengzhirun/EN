@@ -1,5 +1,5 @@
 ---
-title: "Data poisoning attacks and defenses to LDP-based privacy-preserving crowdsensing"
+title: "Data Poisoning Attacks and Defenses to LDP-based Privacy-Preserving Crowdsensing"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
