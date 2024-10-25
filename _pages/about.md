@@ -13,7 +13,7 @@ His research interests are in the areas of security and privacy in Crowdsensing 
 
 NEWS
 ======
-- Oct. 2024 Our Paper, *"Defending Data Poisoning Attacks in DP-based Crowdsensing: A Game-Theoretic Approach"*, was accpepted by *IEEE TMC*.  
+- Oct. 2024: Our Paper, *"Defending Data Poisoning Attacks in DP-based Crowdsensing: A Game-Theoretic Approach"*, was accpepted by *IEEE TMC*.  
 
 EDUCATION
 ======
