@@ -15,7 +15,7 @@ EDUCATION
 ======
  **2017.09~2024.06**, Ph.D, School of Mathematics and Computational Science, [Xiangtan University](https://www.xtu.edu.cn/), China.
 
-  **2022.12~2023.12**, Visiting Students, 
+  **2022.12~2023.12**, Visiting Ph.D Students, 
   
   Rgister a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
